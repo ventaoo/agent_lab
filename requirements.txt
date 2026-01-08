@@ -1,0 +1,12 @@
+torch
+transformers
+sentence-transformers
+numpy
+pandas
+openai
+python-dotenv
+pyyaml
+faiss-cpu
+scipy
+matplotlib
+seaborn
