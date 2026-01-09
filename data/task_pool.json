@@ -1,0 +1,52 @@
+[
+  {
+    "id": "math_001",
+    "prompt": "Solve the equation: 2x + 5 = 15",
+    "type": "math"
+  },
+  {
+    "id": "math_002", 
+    "prompt": "Calculate the area of a circle with radius 7cm",
+    "type": "math"
+  },
+  {
+    "id": "writing_001",
+    "prompt": "Write a short story about a robot learning to feel emotions",
+    "type": "writing"
+  },
+  {
+    "id": "writing_002",
+    "prompt": "Compose a professional email to decline a meeting invitation",
+    "type": "writing"
+  },
+  {
+    "id": "logic_001",
+    "prompt": "If all Bloops are Razzies and some Razzies are Loppies, can we conclude that some Bloops are Loppies?",
+    "type": "logic"
+  },
+  {
+    "id": "logic_002",
+    "prompt": "A man lives on the 20th floor of an apartment building. Every morning he takes the elevator down to the ground floor. When he comes home, he takes the elevator to the 10th floor and walks the rest of the way... except on rainy days, when he takes the elevator all the way to the 20th floor. Why?",
+    "type": "logic"
+  },
+  {
+    "id": "knowledge_001",
+    "prompt": "What is the capital of Australia?",
+    "type": "knowledge"
+  },
+  {
+    "id": "knowledge_002",
+    "prompt": "Explain the process of photosynthesis in simple terms",
+    "type": "knowledge"
+  },
+  {
+    "id": "coding_001",
+    "prompt": "Write a Python function to calculate factorial of a number",
+    "type": "coding"
+  },
+  {
+    "id": "coding_002",
+    "prompt": "Explain the difference between stack and queue data structures",
+    "type": "coding"
+  }
+]

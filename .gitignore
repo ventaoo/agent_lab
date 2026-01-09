@@ -1,7 +1,10 @@
-*.png
-*.jpg
-*.csv
-results.json
-.vscode
-*/__pycache__
-*/*/__pycache__
+*/__pycache__/
+*/.pytest_cache/
+*.pyc
+__pycache__/
+.env
+.env.local
+*.bin
+*.pkl
+
+config/config.yaml
